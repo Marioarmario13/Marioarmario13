@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello there 👋 I'm Mario Batista</h1>
-  <p>Computer Science Student | Python & SQL Learner | Passionate about Tech</p>
+  <p>Computer Science Student | Python & SQL Learner </p>
 </div>
 
 ---
