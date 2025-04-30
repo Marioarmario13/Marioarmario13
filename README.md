@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hello there 👋 I'm Mario Batista</h1>
+  <p>Computer Science Student | Python & SQL Learner | Passionate about Tech</p>
+</div>
 
-<!--
-**Marioarmario13/Marioarmario13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently studying **Computer Science**
+- 🐍 Learning **Python** and **SQL** for data and backend development
+- 💡 Interested in web development, databases, and data analysis
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mariohbatista?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
